@@ -2,7 +2,7 @@
 
 -  Graduated from ITU 🎓
 -  Studying Front-end Development, recently 📚
--  Passionate self-taught ✍️
+-  Passionate self-taught 🌟
 -  Dancer 💃
 
 
