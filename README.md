@@ -23,8 +23,8 @@
 ## Contacts:
 
 [<img align="left" alt="imcagla | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />][linkedin]
-[<img align="left" alt="imcagla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="imcagla | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="imcagla | Instagram" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/instagram.png" />][instagram]
+[<img align="left" alt="imcagla | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/medium.png.svg" />][Medium]
 
 <br />
 
