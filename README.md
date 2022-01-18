@@ -30,3 +30,4 @@
 
 [instagram]: https://www.instagram.com/caglaeyuboglu/
 [linkedin]: https://linkedin.com/in/imrancaglaeyuboglu/
+[medium]: https://medium.com/@caglaeyubog/
